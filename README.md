@@ -1,4 +1,5 @@
 ## Hi there 👋
+![pedrox86lopes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrox86lopes&theme=vue-dark&hide_border=true)
 
 <!--
 **pedrox86lopes/pedrox86lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
