@@ -28,22 +28,6 @@ Backend Software Developer based in Portugal
   
 
 
-<!-- Metrics -->
-<details>
-  <summary><b>📊 Metrics</b></summary>
-    <p>
-
-   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/summary.svg" alt="General Stats">
-   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/habits.svg" alt="Coding Habits">
-</a>
-<br /><br /><br />
-       
-
-</p>
-</details>
-
-
-
 <!-- Snek -->   
 <p align="center">
 <a href="https://gitstar-ranking.com/pedrox86lopes" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
