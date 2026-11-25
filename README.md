@@ -1,6 +1,5 @@
 <!-- Title -->
-<h1 align="center" title="....ERROR">Pedro Lopes</h1>
-      <img align="center" width="250" src="https://whiplash.net/imagens_promo_22/ledzeppelin_logo.jpg" alt="Zepp" />
+<h1 align="center" title="....Welcome">Pedro Lopes</h1>
 <!-- Contact and keys -->
 
 <!-- Outer collapsible -->  
@@ -13,7 +12,6 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="https://github.com/user-attachments/assets/7ee3bf1a-2104-4b56-94ed-deeb102ead04" alt="Cash" />
       
 <blockquote>
 
@@ -30,7 +28,7 @@ Backend Software Developer based in Portugal
 
 <!-- Snek -->   
 <p align="center">
-<a href="https://gitstar-ranking.com/pedrox86lopes" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+
 </p>
 
 </details>
